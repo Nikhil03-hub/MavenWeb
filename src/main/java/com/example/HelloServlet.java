@@ -24,7 +24,7 @@ public class HelloServlet extends HttpServlet {
         out.println("<head><title>Maven Web Jenkins</title></head>");
         out.println("<body>");
         out.println("<h1>Hello from Maven Web Jenkins!</h1>");
-        out.println("<p>Maven Web Automation is working.</p>");
+        out.println("<p>Maven Web Automation is working!.</p>");
         out.println("</body>");
         out.println("</html>");
     }
